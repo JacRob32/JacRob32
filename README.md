@@ -1,4 +1,4 @@
-I'm a student in Portland and the developer of **Flashcards with Friends**. I'm passionate about building open-source apps and utilities, 3D modeling, and creating useful apps and tools. 
+I'm a student in Portland and the developer of **Flashcards with Friends**. I'm passionate about building open-source apps and utilities, 3D modeling, and creating useful apps and tools. I'm currently the IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
 
 ---
 
@@ -25,6 +25,7 @@ A simple macOS script to organize messy folders by file type and schedule automa
 - 3D modeling and design
 - Full-stack development
 - Cloud engineering and DevOps
+- Linux and servers
 
 ---
 
