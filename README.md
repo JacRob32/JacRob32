@@ -1,4 +1,4 @@
-I'm a student in Portland and the developer of **Flashcards with Friends**. I'm passionate about building open-source apps and utilities, 3D modeling, and creating tools that make a difference.
+I'm a student in Portland and the developer of **Flashcards with Friends**. I'm passionate about building open-source apps and utilities, 3D modeling, and creating useful apps and tools. 
 
 ---
 
@@ -24,6 +24,10 @@ A simple macOS script to organize messy folders by file type and schedule automa
 - Building open-source applications and utilities
 - 3D modeling and design
 - Full-stack development
-- Web development and platforms
-- Cross-platform applications
+- Cloud engineering and DevOps
+
+---
+
+## Find More of my Work
+# [Printables](https://www.printables.com/@JacRob32)
 
