@@ -6,7 +6,8 @@ I'm a student in Portland, Oregon and the developer of [Flashcards with Friends]
 ## Featured Projects
 
 ### [Flashcards with Friends](https://flashcardswithfriends.com/)
-Online Flashcard website with no ads or pop ups, and live two-player powered by Websockets
+Online Flashcard website with no ads or pop ups, and live two-player powered by WebSockets. Built with a lightwieght Rust backend, responsive HTML frontend, and 
+optimized Supabase storage. Watch a video [here](https://res.cloudinary.com/weudzd6v/video/upload/v1788500228/Homepage_Clip.mp4)
 
 ###  [Printables Offline](https://github.com/JacRob32/Printables-Offline)
 An open-source app to automatically download 3D models and their data from Printables.com and display them in a fully offline app
