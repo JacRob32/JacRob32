@@ -30,6 +30,14 @@ A simple macOS script to organize messy folders by file type and schedule automa
 - Linux and servers
 
 ---
+## Experience
+-IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
+  -Manage employee accounts and software liscenses
+  -Oversee MDM and policy compliance
+  -Run company server
+  -Build usefull apps and scripts for employees
+
+---
 
 ## Find More of my Work
 ### [JacRob32 on Printables](https://www.printables.com/@JacRob32)
