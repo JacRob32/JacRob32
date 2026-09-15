@@ -24,6 +24,7 @@ A simple macOS script to organize messy folders by file type and schedule automa
 ## My Interests
 
 - Building open-source applications and utilities
+- Rust, C++, JavaScript
 - 3D modeling and design
 - Full-stack development
 - Cloud engineering and DevOps
