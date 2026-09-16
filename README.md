@@ -32,7 +32,7 @@ A simple macOS script to organize messy folders by file type and schedule automa
 
 ---
 ## Experience
-- IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
+### IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
 - Manage employee accounts and software liscenses
 - Oversee MDM and policy compliance
 - Run company server
