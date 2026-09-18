@@ -40,6 +40,13 @@ A simple macOS script to organize messy folders by file type and schedule automa
 
 ---
 
+## What I'm Working on
+- A website to ease upload to AWS cloud storage via API
+- Further optmizing [Flashcards with Friends](https://flashcardswithfriends.com/) and buiding a TI-84 Intergration for it
+- Making a 3d-printed robot arm car with ESP32 and a custom remote controller
+
+---
+
 ## Find More of my Work
 ### [JacRob32 on Printables](https://www.printables.com/@JacRob32)
 ### [Flashcards with Friends](https://flashcardswithfriends.com/jacobrobertsonpdx-eb44)
