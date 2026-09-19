@@ -45,7 +45,7 @@ A simple macOS script to organize messy folders by file type and schedule automa
 - Further optmizing [Flashcards with Friends](https://flashcardswithfriends.com/) and buiding a TI-84 Intergration for it
 - Making a 3d-printed robot arm car with ESP32 and a custom remote controller
 - App to automatically update a Python installlation on any Mac.
-- 
+- Adding ChatGPT to the TI-84 CE Calculator
 
 ---
 
