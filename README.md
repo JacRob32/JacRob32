@@ -13,6 +13,9 @@ optimized Supabase storage. Watch a video [here](https://res.cloudinary.com/weud
 An open-source app to automatically download 3D models, images and their data from Printables.com and display them in a fully offline app. Built with Rust, Tauri, and 
 an intergrated Python script for downloading the models and metadata
 
+###  [Python Updater](https://github.com/JacRob32/Python-Updater)
+A macOS app to automatically update the Python installation on your computer.
+
 ###  [Printables Model API](https://github.com/JacRob32/Printables-Model-API)
 A command-line utility to fetch data and downloads for 3D models on printables.com
 
