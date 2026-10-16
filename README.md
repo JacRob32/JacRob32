@@ -5,6 +5,9 @@ I'm a student in Portland, Oregon and the developer of [Flashcards with Friends]
 
 ## Featured Projects
 
+### [GitConflux](https://Gitconflux.dev/)
+An new agentic Git platform that keeps your repositories, commits, and branches but replaces pull requests and issues with Change Proposals and a shared task queue. Proposals are checked in a staging sandbox and tested together before anything reaches main. Built around a small CLI so agents and people can claim tasks, do the work with any tool, and send it back. Built from the ground up for agents.
+
 ### [Flashcards with Friends](https://flashcardswithfriends.com/)
 Online Flashcard website with no ads or pop ups, and live two-player powered by WebSockets. Built with a lightwieght Rust backend, responsive HTML frontend, and 
 optimized Supabase storage. Watch a video [here](https://res.cloudinary.com/weudzd6v/video/upload/v1788500228/Homepage_Clip.mp4)
@@ -75,11 +78,11 @@ A simple macOS script to organize messy folders by file type and schedule automa
 ---
 
 ## What I'm Working on
-- A website to ease upload to AWS cloud storage via API
+- A tool to ease upload to AWS cloud storage via API
 - Further optmizing [Flashcards with Friends](https://flashcardswithfriends.com/) and buiding a TI-84 Intergration for it
 - Making a 3d-printed robot arm car with ESP32 and a custom remote controller
-- App to automatically update a Python installlation on any Mac.
 - Adding ChatGPT to the TI-84 CE Calculator
+- Adding Google Chat to the Light Phone
 
 ---
 
