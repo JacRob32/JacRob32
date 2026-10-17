@@ -1,4 +1,4 @@
-I'm a student in Portland, Oregon and the developer of [GitConflux](https://Gitconflux.dev/) and [Flashcards with Friends](https://flashcardswithfriends.com/). I'm passionate about building open-source apps and utilities, 3D modeling, and creating useful apps and tools. I'm currently the IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
+I'm a developer in Portland, Oregon and the creator of [GitConflux](https://Gitconflux.dev/) and [Flashcards with Friends](https://flashcardswithfriends.com/). I'm passionate about building open-source apps and utilities, 3D modeling, and creating useful apps and tools. I'm currently the IT Manager at [Woodstock Construction](https://woodstock-construction.com/)
 
 ---
 
