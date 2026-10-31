@@ -45,16 +45,16 @@ A simple macOS script to organize messy folders by file type and schedule automa
     <td bgcolor="#131316"><a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="20" alt=""> Cloudflare</a></td>
     <td bgcolor="#131316"><a href="https://www.rust-lang.org/"><img src="https://cdn.simpleicons.org/rust/CE412B" width="20" alt=""> Rust</a></td>
     <td bgcolor="#131316"><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="20" alt=""> Python</a></td>
-    <td bgcolor="#131316"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/JacRob32/jacrob32.github.io/main/assets/aws.svg" width="20" alt=""> AWS</a></td>
+    <td bgcolor="#131316"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/JacRob32/JacRob32/main/assets/aws.svg" width="20" alt=""> AWS</a></td>
   </tr>
   <tr>
     <td bgcolor="#131316"><a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="20" alt=""> Docker</a></td>
-    <td bgcolor="#131316"><a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/F2F2F2" width="20" alt=""> GitHub</a></td>
-    <td bgcolor="#131316"><a href="https://www.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos/F2F2F2" width="20" alt=""> macOS</a></td>
+    <td bgcolor="#131316"><a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/000000" width="20" alt=""> GitHub</a></td>
+    <td bgcolor="#131316"><a href="https://www.apple.com/macos/"><img src="https://cdn.simpleicons.org/macos/000000" width="20" alt=""> macOS</a></td>
     <td bgcolor="#131316"><a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="20" alt=""> Linux</a></td>
   </tr>
   <tr>
-    <td bgcolor="#131316"><a href="https://github.com/features/copilot"><img src="https://cdn.simpleicons.org/githubcopilot/F2F2F2" width="20" alt=""> Copilot</a></td>
+    <td bgcolor="#131316"><a href="https://github.com/features/copilot"><img src="https://cdn.simpleicons.org/githubcopilot/000000" width="20" alt=""> Copilot</a></td>
     <td bgcolor="#131316"><a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="20" alt=""> ESP32</a></td>
     <td bgcolor="#131316"><a href="https://supabase.com/"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="20" alt=""> Supabase</a></td>
     <td bgcolor="#131316"><a href="https://cloudinary.com/"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="20" alt=""> Cloudinary</a></td>
@@ -89,4 +89,3 @@ A simple macOS script to organize messy folders by file type and schedule automa
 ## Find More of my Work
 ### [JacRob32 on Printables](https://www.printables.com/@JacRob32)
 ### [Flashcards with Friends](https://flashcardswithfriends.com/jacobrobertsonpdx-eb44)
-
